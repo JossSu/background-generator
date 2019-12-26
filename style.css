@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  letter-spacing: .5em; /*0.5 的意思*/
+  margin-top: 5%;
+  /* 網頁起始色碼 */
+  background: linear-gradient(to right, #33ccff, #ff99cc);
+}
+
+h2 {
+  text-decoration: underline;
+}
+
+h3 {
+  letter-spacing: normal;
+}
+
+
+
